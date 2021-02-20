@@ -3,2831 +3,761 @@
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/1372326_ico.png?ts=1612465147" group-title="CracksTv", TvCracks
 https://www.appcreator24.com/app1372326
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 2020
-http://skyplay.ddns.net:25461/victor/victor/7283
+#EXTM3U
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 2019
-http://skyplay.ddns.net:25461/victor/victor/7284
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", #ENTRENIMIENTO
-http://skyplay.ddns.net:25461/victor/victor/7285
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="Without category", (ONLINE) DISCOVERY IDD
+http://ipeteve.com/php/th.php?channel=id145d&f.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ACCION
-http://skyplay.ddns.net:25461/victor/victor/7286
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="Without category", (ONLINE) PEQUERADIO
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ANIMACION
-http://skyplay.ddns.net:25461/victor/victor/7287
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="Without category", (ONLINE) RT ESPANOL
+https://rt-esp.secure.footprint.net/1102.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ANIMACION 2
-http://skyplay.ddns.net:25461/victor/victor/7288
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="Without category", (ONLINE) FRANCE 24
+https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ARTES MARCIALES
-http://skyplay.ddns.net:25461/victor/victor/7289
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="Without category", (ONLINE) DW ESPANOL
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CIENCIA FICCION
-http://skyplay.ddns.net:25461/victor/victor/7290
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="Without category", (ONLINE) WEATHER USA
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CINE CLASICO
-http://skyplay.ddns.net:25461/victor/victor/7291
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="Without category", (ONLINE) MILENIO
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SUSPENSO
-http://skyplay.ddns.net:25461/victor/victor/7293
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="Without category", (ONLINE) CNC CHINA
+https://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FANTASIA
-http://skyplay.ddns.net:25461/victor/victor/7294
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="Without category", (ONLINE) ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DRAMA 1
-http://skyplay.ddns.net:25461/victor/victor/7295
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="Without category", (ONLINE) TELEMUNDO NOVELAS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=293d&deviceDNT=0&deviceModel=0&already_redirected=true
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TERROR
-http://skyplay.ddns.net:25461/victor/victor/7296
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="Without category", (ONLINE) FOROTV
+https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 40y20
-http://skyplay.ddns.net:25461/victor/victor/7297
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="Without category", (ONLINE) VIBETV
+https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DRAGON BALL Z
-http://skyplay.ddns.net:25461/victor/victor/7299
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="Without category", (ONLINE) CANAL ONCE
+https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DINOSAURIOS
-http://skyplay.ddns.net:25461/victor/victor/7300
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="Without category", (ONLINE) QUIERO TV
+https://quierotvlive.tk/httplive/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NOSOTROS LOS GUAPOS
-http://skyplay.ddns.net:25461/victor/victor/7301
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="Without category", (ONLINE) TELEPLAY
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CHAVO ANIMADO
-http://skyplay.ddns.net:25461/victor/victor/7302
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="Without category", (ONLINE) NET TV
+https://unlimited8-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CHESPIRITO
-http://skyplay.ddns.net:25461/victor/victor/7303
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="Without category", (ONLINE) MULTIVISION ARG
+https://panel.dattalive.com/8250/8250/.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LOS PICAPIEDRA
-http://skyplay.ddns.net:25461/victor/victor/7305
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="Without category", (ONLINE) TEC TV
+http://g5.vxral-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/Playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SUPERS
-http://skyplay.ddns.net:25461/victor/victor/7306
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="Without category", (OFFLINE) NEXTV
+http://198.1.123.99:1935/live/myStream/.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UNA FAMILIA DE DIEZ
-http://skyplay.ddns.net:25461/victor/victor/7307
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="Without category", (ONLINE) GARAGETV
+http://186.0.233.76:1935/Garage/garage.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VECINOS
-http://skyplay.ddns.net:25461/victor/victor/7308
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="Without category", (OFFLINE) A3CINE
+http://stream.pcriot.com/ZyH3/a3.php/a3cine-index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FAMILIA PELUCHE
-http://skyplay.ddns.net:25461/victor/victor/7309
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="Without category", (ONLINE) PLUTO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=8609f043-2fb5-440a-ab90-ff5dcbfb5de4&deviceVersion=87.0.4280.141&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&deviceType=web&deviceMake=Chrome&sid=e468c450-5c67-11eb-a30a-0242ac110002&advertisingId=&deviceLat=25.6449&deviceLon=-100.3110&deviceDNT=0&deviceModel=web&userId=&appName=web
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LEO DEL OCHO
-http://skyplay.ddns.net:25461/victor/victor/7310
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="Without category", (ONLINE) PLUTO TERROR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=9f61&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", THUNDERCATS
-http://skyplay.ddns.net:25461/victor/victor/7312
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="Without category", (ONLINE) LOCOMOTION
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FAMILY MUSIC
-http://skyplay.ddns.net:25461/victor/victor/7313
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="Without category", (ONLINE) CACHIPUM TV
+https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Azteca 13 HD
-http://skyplay.ddns.net:25461/victor/victor/5124
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="Without category", (ONLINE) KDE TV
+http://207.246.84.143:8080/hls/Kanade.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Azteca 7 HD
-http://skyplay.ddns.net:25461/victor/victor/5125
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="Without category", (ONLINE) WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 5 HD
-http://skyplay.ddns.net:25461/victor/victor/5127
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="Without category", (OFFLINE) TOROS
+http://stream.pcriot.com/ZyH3/toros.php/index.mpd
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal De Las Estrellas HD
-http://skyplay.ddns.net:25461/victor/victor/5128
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="Without category", (ONLINE) TOP LATINO
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Channel HD
-http://skyplay.ddns.net:25461/victor/victor/5129
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="Without category", (ONLINE) MIAMI LATINO
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery H&H HD
-http://skyplay.ddns.net:25461/victor/victor/5130
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) LOCOMOTION
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery ID HD
-http://skyplay.ddns.net:25461/victor/victor/5131
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) AZTECA 7
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=1_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Disney JR HD
-http://skyplay.ddns.net:25461/victor/victor/5134
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) CANAL 5
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=2_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Espn 2 HD
-http://skyplay.ddns.net:25461/victor/victor/5135
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) TUDN
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=3_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Espn 3 HD
-http://skyplay.ddns.net:25461/victor/victor/5136
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) LATINA
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=4_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Espn HD
-http://skyplay.ddns.net:25461/victor/victor/5137
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) AMERICA TV
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=5_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN Plus HD
-http://skyplay.ddns.net:25461/victor/victor/5138
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) GOL PERU
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=6_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Action HD
-http://skyplay.ddns.net:25461/victor/victor/5139
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) GOL TV
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=7_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Sports 1 HD
-http://skyplay.ddns.net:25461/victor/victor/5140
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) WIN SPORTS
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=8_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Sports 2 HD
-http://skyplay.ddns.net:25461/victor/victor/5141
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) TNT SPORTS
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=9_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Sports 3 HD
-http://skyplay.ddns.net:25461/victor/victor/5142
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) FOX SPORTS PREMIUM
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=10_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO 2 HD
-http://skyplay.ddns.net:25461/victor/victor/5143
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) TYC SPORTS
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=11_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO HD
-http://skyplay.ddns.net:25461/victor/victor/5144
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) FOX SPORTS
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=12_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", History Channel HD
-http://skyplay.ddns.net:25461/victor/victor/5145
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) FOX SPORTS 2
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=13_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Nat Geo Wild HD
-http://skyplay.ddns.net:25461/victor/victor/5146
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) FOX SPORTS 3
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=14_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", National Geographic HD
-http://skyplay.ddns.net:25461/victor/victor/5147
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) ESPN DEPORTES
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=15_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Space HD
-http://skyplay.ddns.net:25461/victor/victor/5149
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) ESPN EXTRA
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=16_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TNT HD
-http://skyplay.ddns.net:25461/victor/victor/5150
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) ESPN
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=17_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TUDN HD
-http://skyplay.ddns.net:25461/victor/victor/5153
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) ESPN 2
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=18_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ADN40
-http://skyplay.ddns.net:25461/victor/victor/5156
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) ESPN 3
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=19_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AMC
-http://skyplay.ddns.net:25461/victor/victor/5158
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) DIRECTV SPORTS
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=20_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Animal Planet
-http://skyplay.ddns.net:25461/victor/victor/5159
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) DIRECTV SPORTS 2
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=21_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Antena 3
-http://skyplay.ddns.net:25461/victor/victor/5160
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) DIRECTV SPORTS +
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=22_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AXN
-http://skyplay.ddns.net:25461/victor/victor/5161
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) BEIN SPORTS Ã‘
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=23_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AZ Cinema
-http://skyplay.ddns.net:25461/victor/victor/5163
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) FOX SPORTS MX
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=24_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AZ Corazon
-http://skyplay.ddns.net:25461/victor/victor/5164
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) FOX SPORTS 2 MX
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=25_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AZ Mundo
-http://skyplay.ddns.net:25461/victor/victor/5165
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) FOX SPORTS 3 MX
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=26_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Azteca 7
-http://skyplay.ddns.net:25461/victor/victor/5167
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) ESPN 2 MX
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=27_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bandamax
-http://skyplay.ddns.net:25461/victor/victor/5168
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) ESPN MX
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=28_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bein La Liga
-http://skyplay.ddns.net:25461/victor/victor/5169
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) ESPN 3 MX
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=29_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bein N
-http://skyplay.ddns.net:25461/victor/victor/5170
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) AFIZZIONADOS
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=30_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 5
-http://skyplay.ddns.net:25461/victor/victor/5173
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) HBO
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=31_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal De Las Estrellas
-http://skyplay.ddns.net:25461/victor/victor/5174
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) HBO 2
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=32_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cartoon Network
-http://skyplay.ddns.net:25461/victor/victor/5176
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) HBO +
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=33_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cinecanal
-http://skyplay.ddns.net:25461/victor/victor/5177
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) HBO FAMILY
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=34_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Comedy Central
-http://skyplay.ddns.net:25461/victor/victor/5181
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) HBO XTREME
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=35_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", De Pelicula
-http://skyplay.ddns.net:25461/victor/victor/5182
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) HBO POP
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=36_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", De Pelicula Plus
-http://skyplay.ddns.net:25461/victor/victor/5183
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) FOX ACTION
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=37_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Channel
-http://skyplay.ddns.net:25461/victor/victor/5185
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) FOX SERIES
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=38_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Civilization
-http://skyplay.ddns.net:25461/victor/victor/5186
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) SPACE
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=39_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Familia
-http://skyplay.ddns.net:25461/victor/victor/5187
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) WARNER
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=40_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery ID
-http://skyplay.ddns.net:25461/victor/victor/5189
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) TNT
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=41_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Kids
-http://skyplay.ddns.net:25461/victor/victor/5190
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) FOX CHANNEL
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=42_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Science
-http://skyplay.ddns.net:25461/victor/victor/5191
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) CINEMAX
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=43_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Theater
-http://skyplay.ddns.net:25461/victor/victor/5192
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) CINECANAL
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=44_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Turbo
-http://skyplay.ddns.net:25461/victor/victor/5194
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) TELEFE
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=45_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery World
-http://skyplay.ddns.net:25461/victor/victor/5195
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) EL TRECE
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=46_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Disney Channel
-http://skyplay.ddns.net:25461/victor/victor/5196
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) DISTRITO COMEDIA
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=47_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Distrito Comedia
-http://skyplay.ddns.net:25461/victor/victor/5199
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) TELEMUNDO
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=48_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", E!
-http://skyplay.ddns.net:25461/victor/victor/5200
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) HISTORY
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=49_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Garage
-http://skyplay.ddns.net:25461/victor/victor/5201
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) H2
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=50_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN
-http://skyplay.ddns.net:25461/victor/victor/5203
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) PASIONES
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=51_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN 2
-http://skyplay.ddns.net:25461/victor/victor/5204
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) AZTECA UNO
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=52_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN 3
-http://skyplay.ddns.net:25461/victor/victor/5205
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) AZTECA MUNDO
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=53_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox
-http://skyplay.ddns.net:25461/victor/victor/5210
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) AZTECA CINEMA
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=54_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Action
-http://skyplay.ddns.net:25461/victor/victor/5211
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) GALAVISION
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=55_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Cinema
-http://skyplay.ddns.net:25461/victor/victor/5212
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) TLNOVELAS
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=56_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Classics
-http://skyplay.ddns.net:25461/victor/victor/5213
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) CANAL DE LAS ESTRELLAS
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=57_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Family
-http://skyplay.ddns.net:25461/victor/victor/5214
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) SYFY
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=58_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Life
-http://skyplay.ddns.net:25461/victor/victor/5215
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) CARACOL TV
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=59_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Sports 2
-http://skyplay.ddns.net:25461/victor/victor/5219
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) TVC
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=60_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Sports 3
-http://skyplay.ddns.net:25461/victor/victor/5220
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) ATV
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=61_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Gol TV
-http://skyplay.ddns.net:25461/victor/victor/5224
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) UNIVISION
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=62_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Golden
-http://skyplay.ddns.net:25461/victor/victor/5225
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) UNICABLE
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=63_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Golden Edge
-http://skyplay.ddns.net:25461/victor/victor/5226
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) UNIMAS
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=64_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO 2
-http://skyplay.ddns.net:25461/victor/victor/5230
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) IMAGEN TV
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=65_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO Family
-http://skyplay.ddns.net:25461/victor/victor/5231
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) CNN Ã‘
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=66_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO Plus
-http://skyplay.ddns.net:25461/victor/victor/5232
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) RT Ã‘
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=67_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO Signature
-http://skyplay.ddns.net:25461/victor/victor/5233
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) FOX MOVIES
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=68_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", History Channel
-http://skyplay.ddns.net:25461/victor/victor/5235
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) FOX FAMILY
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=69_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Imagen
-http://skyplay.ddns.net:25461/victor/victor/5237
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) FX
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=70_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MasChic
-http://skyplay.ddns.net:25461/victor/victor/5239
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) FXM
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=71_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Max UP
-http://skyplay.ddns.net:25461/victor/victor/5240
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) FOX LIFE
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=72_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Milenio TV
-http://skyplay.ddns.net:25461/victor/victor/5242
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) GOLDEN +
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=73_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MTV
-http://skyplay.ddns.net:25461/victor/victor/5243
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) GOLDEN EDGE
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=74_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Multimedios Plus
-http://skyplay.ddns.net:25461/victor/victor/5245
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) GOLDEN PREMIER
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=75_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Nat Geo Wild
-http://skyplay.ddns.net:25461/victor/victor/5248
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) TNT SERIES
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=76_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Nick 2
-http://skyplay.ddns.net:25461/victor/victor/5251
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) SONY
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=77_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Once TV
-http://skyplay.ddns.net:25461/victor/victor/5255
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) AXN
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=78_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Paramount
-http://skyplay.ddns.net:25461/victor/victor/5256
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) UNIVERSAL CHANNEL
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=79_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ritmoson
-http://skyplay.ddns.net:25461/victor/victor/5258
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) SINCANAL03
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=80_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Space
-http://skyplay.ddns.net:25461/victor/victor/5260
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) MULTI PREMIER
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=81_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Studio Universal
-http://skyplay.ddns.net:25461/victor/victor/5261
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) AMC
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=82_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SyFy
-http://skyplay.ddns.net:25461/victor/victor/5263
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) PARAMOUNT
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=83_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Teleformula
-http://skyplay.ddns.net:25461/victor/victor/5266
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) CINE LATINO
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=84_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Telehit
-http://skyplay.ddns.net:25461/victor/victor/5267
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) DE PELICULA +
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=85_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Telenovelas
-http://skyplay.ddns.net:25461/victor/victor/5268
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) I SAT
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=86_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Televisa MTY
-http://skyplay.ddns.net:25461/victor/victor/5270
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) MTV
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=87_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Televisa Puebla
-http://skyplay.ddns.net:25461/victor/victor/5271
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) MTV HITS
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=88_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TNT Series
-http://skyplay.ddns.net:25461/victor/victor/5274
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) HTV
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=89_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TUDN
-http://skyplay.ddns.net:25461/victor/victor/5277
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) BANDAMAX
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=90_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TVC Deportes
-http://skyplay.ddns.net:25461/victor/victor/5279
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) COMEDY CENTRAL
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=91_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Universal Channel
-http://skyplay.ddns.net:25461/victor/victor/5282
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) NAT GEO
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=92_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Warner
-http://skyplay.ddns.net:25461/victor/victor/5284
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) NAT GEO 2
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=93_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Win Sports
-http://skyplay.ddns.net:25461/victor/victor/5285
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) ANIMAL PLANET
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=94_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TSN 1
-http://skyplay.ddns.net:25461/victor/victor/5286
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) DISCOVERY CHANNEL
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=95_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TSN 2
-http://skyplay.ddns.net:25461/victor/victor/5287
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) DISCOVERY TURBO
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=96_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TSN 3
-http://skyplay.ddns.net:25461/victor/victor/5288
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) DISCOVERY H&H
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=97_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TSN 4
-http://skyplay.ddns.net:25461/victor/victor/5289
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) DISCOVERY ID
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=98_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TSN 5
-http://skyplay.ddns.net:25461/victor/victor/5290
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) A&E
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=99_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CARACOL HD
-http://skyplay.ddns.net:25461/victor/victor/5294
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) DISCOVERY TLC
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=100_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PASIONES
-http://skyplay.ddns.net:25461/victor/victor/5296
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) DISCOVERY THEATER
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=101_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GALAVISION
-http://skyplay.ddns.net:25461/victor/victor/5301
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) DISCOVERY WORLD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=102_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Telemundo LA HD
-http://skyplay.ddns.net:25461/victor/victor/5302
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) E!
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=103_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Telemundo Miami
-http://skyplay.ddns.net:25461/victor/victor/5304
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) LIFETIME
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=104_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UNIMAS
-http://skyplay.ddns.net:25461/victor/victor/5307
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) TBS
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=105_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Unimas West
-http://skyplay.ddns.net:25461/victor/victor/5308
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) GOURMET
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=106_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Universal Kids
-http://skyplay.ddns.net:25461/victor/victor/5309
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) DISNEY CHANNEL
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=107_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Univision Atlanta
-http://skyplay.ddns.net:25461/victor/victor/5311
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) DISNEY XD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=108_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Univision Chicago
-http://skyplay.ddns.net:25461/victor/victor/5312
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) DISNEY JR
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=109_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Univision East
-http://skyplay.ddns.net:25461/victor/victor/5313
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) NICK
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=110_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Univision New York
-http://skyplay.ddns.net:25461/victor/victor/5316
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) NICK MUSIC
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=111_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Univision San Francisco
-http://skyplay.ddns.net:25461/victor/victor/5317
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) NICK JR
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=112_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Univision West
-http://skyplay.ddns.net:25461/victor/victor/5319
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) NICK MUSIC 2
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=113_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PPV VIP 1*
-http://skyplay.ddns.net:25461/victor/victor/5320
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) CARTOON NETWORK
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=114_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PPV VIP 2*
-http://skyplay.ddns.net:25461/victor/victor/5321
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) BOOMERANG
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=115_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Mega TV
-http://skyplay.ddns.net:25461/victor/victor/5322
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) TOONCAST
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=116_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Telemundo
-http://skyplay.ddns.net:25461/victor/victor/5323
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) DISCOVERY KIDS
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=117_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Univision
-http://skyplay.ddns.net:25461/victor/victor/5324
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) NAT GEO KIDS
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=118_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", WAPA
-http://skyplay.ddns.net:25461/victor/victor/5325
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) SINCANAL04
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=119_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", WAPA 2
-http://skyplay.ddns.net:25461/victor/victor/5326
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) VH1
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=120_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", WIPR
-http://skyplay.ddns.net:25461/victor/victor/5327
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) MTV CLASSICS
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=121_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Box Nation 720p
-http://skyplay.ddns.net:25461/victor/victor/5329
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) TELEHIT MUSIC
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=122_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BT Sport 1
-http://skyplay.ddns.net:25461/victor/victor/5331
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) TOP LATINO
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=123_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BT Sport 2
-http://skyplay.ddns.net:25461/victor/victor/5332
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) NBA TV
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=125_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Eurosport 1
-http://skyplay.ddns.net:25461/victor/victor/5333
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) ADN40
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=127_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sports Action
-http://skyplay.ddns.net:25461/victor/victor/5335
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) SINCANAL05
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=128_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sports Cricket
-http://skyplay.ddns.net:25461/victor/victor/5337
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) TERROR
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=129_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sports F1
-http://skyplay.ddns.net:25461/victor/victor/5338
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) SINCANAL06
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=130_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sports Golf
-http://skyplay.ddns.net:25461/victor/victor/5340
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) SINCANAL07
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=131_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sports Premiere League
-http://skyplay.ddns.net:25461/victor/victor/5343
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) ONCE NIÃ‘OS
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=132_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", A&E
-http://skyplay.ddns.net:25461/victor/victor/5344
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) FOX COMEDY
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=133_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ABC
-http://skyplay.ddns.net:25461/victor/victor/5345
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) MLB NETWORK
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=134_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ABC News
-http://skyplay.ddns.net:25461/victor/victor/5346
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) HOLATV
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=136_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AMC
-http://skyplay.ddns.net:25461/victor/victor/5347
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) TRUTV
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=137_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", American Heroes Channel
-http://skyplay.ddns.net:25461/victor/victor/5348
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) FOX ACTION
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=138_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Animal Planet
-http://skyplay.ddns.net:25461/victor/victor/5349
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) FOX CLASSICS
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=139_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BBC America
-http://skyplay.ddns.net:25461/victor/victor/5350
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) WIN SPORTS
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=140_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN
-http://skyplay.ddns.net:25461/victor/victor/5351
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) SINCANAL08
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=141_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BET
-http://skyplay.ddns.net:25461/victor/victor/5352
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) UNIVERSO
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=142_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BET Her
-http://skyplay.ddns.net:25461/victor/victor/5353
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) FOROTV
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=143_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Big Ten Network
-http://skyplay.ddns.net:25461/victor/victor/5354
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) SINCANAL08
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=145_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Boomerang
-http://skyplay.ddns.net:25461/victor/victor/5355
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) SOUTH PARK
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=146_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bravo
-http://skyplay.ddns.net:25461/victor/victor/5356
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) NBC NEW YORK
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=147_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cartoon Network
-http://skyplay.ddns.net:25461/victor/victor/5357
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) ESPN U
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=148_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CBSN
-http://skyplay.ddns.net:25461/victor/victor/5359
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) HBO MUNDI
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=149_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cinemax
-http://skyplay.ddns.net:25461/victor/victor/5360
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) CHAVO DEL 8
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=150_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CNBC
-http://skyplay.ddns.net:25461/victor/victor/5362
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) NFL NETWORK
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=151_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CNN
-http://skyplay.ddns.net:25461/victor/victor/5363
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) TCM
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=152_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Comedy Central
-http://skyplay.ddns.net:25461/victor/victor/5364
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) WILLAX
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=153_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cooking Channel
-http://skyplay.ddns.net:25461/victor/victor/5365
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) NHL NETWORK USA
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=154_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cozi TV
-http://skyplay.ddns.net:25461/victor/victor/5366
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) TIGO SPORTS
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=201_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CW
-http://skyplay.ddns.net:25461/victor/victor/5367
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) SINCANAL09
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=202_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Channel
-http://skyplay.ddns.net:25461/victor/victor/5369
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) AZTECA 7 HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=203_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Family
-http://skyplay.ddns.net:25461/victor/victor/5370
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) TUDN HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=205_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Life
-http://skyplay.ddns.net:25461/victor/victor/5371
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) AMERICA TV
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=206_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Science
-http://skyplay.ddns.net:25461/victor/victor/5372
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) HBO HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=207_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Disney Channel
-http://skyplay.ddns.net:25461/victor/victor/5373
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) HBO 2 HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=208_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Disney Jr
-http://skyplay.ddns.net:25461/victor/victor/5374
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) HBO FAMILY HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=210_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Disney XD
-http://skyplay.ddns.net:25461/victor/victor/5375
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) HBO SIGNATURE
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=211_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", E!
-http://skyplay.ddns.net:25461/victor/victor/5377
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) HBO MUNDI
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=212_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EPIX
-http://skyplay.ddns.net:25461/victor/victor/5379
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) HBO XTREME
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=213_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EPIX HITS
-http://skyplay.ddns.net:25461/victor/victor/5380
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) TNT HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=214_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN
-http://skyplay.ddns.net:25461/victor/victor/5381
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) CINEMAX HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=215_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN 2
-http://skyplay.ddns.net:25461/victor/victor/5382
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) SPACE HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=216_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN DEPORTES
-http://skyplay.ddns.net:25461/victor/victor/5383
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) AXN HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=217_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN News
-http://skyplay.ddns.net:25461/victor/victor/5384
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) FX HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=221_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN U
-http://skyplay.ddns.net:25461/victor/victor/5385
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) WWE TV
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=222_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Food Network
-http://skyplay.ddns.net:25461/victor/victor/5386
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) CINECANAL
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=223_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox
-http://skyplay.ddns.net:25461/victor/victor/5387
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) FOX ACTION HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=224_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Deportes
-http://skyplay.ddns.net:25461/victor/victor/5388
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) GOLDEN PREMIER HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=225_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox News
-http://skyplay.ddns.net:25461/victor/victor/5389
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) GOLDEN EDGE HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=226_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FreeForm
-http://skyplay.ddns.net:25461/victor/victor/5390
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) NAT GEO WILD HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=227_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FS1
-http://skyplay.ddns.net:25461/victor/victor/5391
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) DISCOVERY CHANNEL HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=228_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FS2
-http://skyplay.ddns.net:25461/victor/victor/5392
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) H&H HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=229_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fuse
-http://skyplay.ddns.net:25461/victor/victor/5393
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) DISCOVERY SCIENCE HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=230_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FX
-http://skyplay.ddns.net:25461/victor/victor/5395
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) DISCOVERY WORLD HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=231_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FXM
-http://skyplay.ddns.net:25461/victor/victor/5396
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) DISCOVERY THEATER HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=232_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FXX
-http://skyplay.ddns.net:25461/victor/victor/5397
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) DISCOVERY ID HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=233_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FYI
-http://skyplay.ddns.net:25461/victor/victor/5398
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) HISTORY HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=234_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Golf Channel
-http://skyplay.ddns.net:25461/victor/victor/5399
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) H2 HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=235_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Hallmark
-http://skyplay.ddns.net:25461/victor/victor/5400
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) LAS ESTRELLAS
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=236_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Hallmark Movies & Mysteries
-http://skyplay.ddns.net:25461/victor/victor/5401
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) FOX CINEMA HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=237_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO
-http://skyplay.ddns.net:25461/victor/victor/5402
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) GALAVISION HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=238_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO 2
-http://skyplay.ddns.net:25461/victor/victor/5403
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) FOX SPORTS HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=239_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO Family
-http://skyplay.ddns.net:25461/victor/victor/5404
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) FOX SPORTS 2 HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=240_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO Signature
-http://skyplay.ddns.net:25461/victor/victor/5405
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) FOX SPORTS 3 HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=241_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HGTV
-http://skyplay.ddns.net:25461/victor/victor/5407
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) ESPN HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=243_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", History Channel
-http://skyplay.ddns.net:25461/victor/victor/5408
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) ESPN 3 HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=244_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HLN
-http://skyplay.ddns.net:25461/victor/victor/5409
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) FOX SPORTS SUR HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=246_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", IFC
-http://skyplay.ddns.net:25461/victor/victor/5410
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) FOX SPORTS 2 SUR HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=247_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Investigation Discovery
-http://skyplay.ddns.net:25461/victor/victor/5411
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) FOX SPORTS 3 SUR HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=248_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lifetime
-http://skyplay.ddns.net:25461/victor/victor/5412
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) ESPN HD SUR
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=249_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LMN
-http://skyplay.ddns.net:25461/victor/victor/5413
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) ESPN 3 HD SUR
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=250_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LongHorn Network
-http://skyplay.ddns.net:25461/victor/victor/5414
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) SINCANALHD01
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=251_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MLB Network
-http://skyplay.ddns.net:25461/victor/victor/5415
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) DHE
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=253_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MSNBC
-http://skyplay.ddns.net:25461/victor/victor/5416
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) TNTSPORTS HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=254_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MTV
-http://skyplay.ddns.net:25461/victor/victor/5417
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) FOX SPORTS PREMIUM HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=255_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MY 9
-http://skyplay.ddns.net:25461/victor/victor/5418
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) DIRECTV SPORTS HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=256_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Nat Geo
-http://skyplay.ddns.net:25461/victor/victor/5419
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) DIRECTV SPORTS 2 HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=257_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NBA TV
-http://skyplay.ddns.net:25461/victor/victor/5421
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) DIRECTV SPORTS + HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=258_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NBC
-http://skyplay.ddns.net:25461/victor/victor/5422
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) CARACOL HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=259_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NBC Universo
-http://skyplay.ddns.net:25461/victor/victor/5423
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) WIN SPORTS +
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=261_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NBCSN
-http://skyplay.ddns.net:25461/victor/victor/5424
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) SONY HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=263_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NFL Network
-http://skyplay.ddns.net:25461/victor/victor/5425
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) AMC HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=264_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NFL RedZone
-http://skyplay.ddns.net:25461/victor/victor/5426
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) PARAMOUNT HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=265_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NHL NETWORK
-http://skyplay.ddns.net:25461/victor/victor/5427
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) FOX MOVIES HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=266_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NICK
-http://skyplay.ddns.net:25461/victor/victor/5428
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) TEEN NICK
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=268_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", OUTDOOR CHANNEL
-http://skyplay.ddns.net:25461/victor/victor/5430
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) CARTOON NETWORK HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=269_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", OWN
-http://skyplay.ddns.net:25461/victor/victor/5431
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) DISNEY CHANNEL HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=270_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Oxygen
-http://skyplay.ddns.net:25461/victor/victor/5432
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) ANIMAL PLANET HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=272_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PAC-12 Los Angeles
-http://skyplay.ddns.net:25461/victor/victor/5434
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) LA UNO
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=328_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PAC-12 Oregon
-http://skyplay.ddns.net:25461/victor/victor/5435
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) LA DOS
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=329_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Paramount
-http://skyplay.ddns.net:25461/victor/victor/5436
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) TDP
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=330_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PBS KIDS
-http://skyplay.ddns.net:25461/victor/victor/5437
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) 24H
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=331_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Pop
-http://skyplay.ddns.net:25461/victor/victor/5438
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) ANTENA 3
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=332_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Showtime
-http://skyplay.ddns.net:25461/victor/victor/5440
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) LA SEXTA
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=333_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Showtime 2
-http://skyplay.ddns.net:25461/victor/victor/5441
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) MOVISTAR ACCION
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=337_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", STAR
-http://skyplay.ddns.net:25461/victor/victor/5442
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) MOVISTAR ESTRENOS
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=338_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sundance
-http://skyplay.ddns.net:25461/victor/victor/5445
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) MOVISTAR FORMULA 1
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=339_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SyFy
-http://skyplay.ddns.net:25461/victor/victor/5446
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) MOVISTAR LA LIGA
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=350_&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TBS
-http://skyplay.ddns.net:25461/victor/victor/5447
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tennis Channel
-http://skyplay.ddns.net:25461/victor/victor/5448
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", THE WEATHER CHANNEL
-http://skyplay.ddns.net:25461/victor/victor/5449
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TLC
-http://skyplay.ddns.net:25461/victor/victor/5450
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Travel Channel
-http://skyplay.ddns.net:25461/victor/victor/5452
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TruTV
-http://skyplay.ddns.net:25461/victor/victor/5453
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Network
-http://skyplay.ddns.net:25461/victor/victor/5454
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Velocity
-http://skyplay.ddns.net:25461/victor/victor/5455
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VICELAND
-http://skyplay.ddns.net:25461/victor/victor/5456
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", WE TV
-http://skyplay.ddns.net:25461/victor/victor/5457
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", World Fishing Network
-http://skyplay.ddns.net:25461/victor/victor/5458
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", WWE
-http://skyplay.ddns.net:25461/victor/victor/5459
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Yes Network
-http://skyplay.ddns.net:25461/victor/victor/5460
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LOS 7 PECADOS T3
-http://skyplay.ddns.net:25461/victor/victor/11034
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Geostorm (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/136.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 12 Horas para Vivir.2012. [AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/137.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 12 Rounds 2: Reloaded (2013)
-http://skyplay.ddns.net:25461/movie/victor/victor/138.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 16 Blocks (2006)
-http://skyplay.ddns.net:25461/movie/victor/victor/139.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 2 Guns (2013)
-http://skyplay.ddns.net:25461/movie/victor/victor/140.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 21 Jump Street (2012)
-http://skyplay.ddns.net:25461/movie/victor/victor/141.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 22 Jump Street (2014)
-http://skyplay.ddns.net:25461/movie/victor/victor/142.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 30 Minutes or Less (2011)
-http://skyplay.ddns.net:25461/movie/victor/victor/143.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 300 El Nacimiento De Un Imperio.2014. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/144.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 44 Minutos Bajo Fuego.2003.AcciÃ³n
-http://skyplay.ddns.net:25461/movie/victor/victor/145.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 5 Dias De Guerra.2011. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/146.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 6 Days (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/147.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", A Vew to Kll.1985.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/148.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", A View to a Kill (1985)
-http://skyplay.ddns.net:25461/movie/victor/victor/149.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ARQ (2016)
-http://skyplay.ddns.net:25461/movie/victor/victor/150.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Afflicted.2013.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/151.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Agentes Secretos.2011. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/152.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Alien 3(1992)Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/153.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Alien Resurrection (1997)
-http://skyplay.ddns.net:25461/movie/victor/victor/154.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AVP: Alien vs. Predator (2004)
-http://skyplay.ddns.net:25461/movie/victor/victor/155.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Allegiant (2016)
-http://skyplay.ddns.net:25461/movie/victor/victor/156.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Allied (2016)
-http://skyplay.ddns.net:25461/movie/victor/victor/157.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Altitude (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/158.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Alto Riesgo.1998.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/159.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Amanecer Rojo..2012. [AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/160.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AmeriGeddon (2016)
-http://skyplay.ddns.net:25461/movie/victor/victor/161.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Arena (2011)
-http://skyplay.ddns.net:25461/movie/victor/victor/162.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Arma mortal 2.1989.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/163.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Armageddon (1998)
-http://skyplay.ddns.net:25461/movie/victor/victor/164.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Armstrong (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/165.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Asalto al Precinto 13.2005.AcciÃ³n
-http://skyplay.ddns.net:25461/movie/victor/victor/166.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Asesino Samurai.2010. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/167.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Assassination Classroom.2016.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/168.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Assassin's Creed (2016)
-http://skyplay.ddns.net:25461/movie/victor/victor/169.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Atrapen al gringo.2012. (Accion)
-http://skyplay.ddns.net:25461/movie/victor/victor/170.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Automata (2014)
-http://skyplay.ddns.net:25461/movie/victor/victor/171.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Avatar (2009)
-http://skyplay.ddns.net:25461/movie/victor/victor/172.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Avengers Grimm (2015)
-http://skyplay.ddns.net:25461/movie/victor/victor/173.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Baby Driver (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/174.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Babylon A.D. (2008)
-http://skyplay.ddns.net:25461/movie/victor/victor/175.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Balas Cruzadas.2012. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/176.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bangkok Dangerous (2008)
-http://skyplay.ddns.net:25461/movie/victor/victor/177.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Barely Lethal (2015)
-http://skyplay.ddns.net:25461/movie/victor/victor/178.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Barricade (2012)
-http://skyplay.ddns.net:25461/movie/victor/victor/179.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bastardos Sin gloria.2009.AcciÃ³n
-http://skyplay.ddns.net:25461/movie/victor/victor/180.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bastille Day (2016)
-http://skyplay.ddns.net:25461/movie/victor/victor/181.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Battle for Skyark.2017.AcciÃ³n
-http://skyplay.ddns.net:25461/movie/victor/victor/182.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ben-Hur (2016)
-http://skyplay.ddns.net:25461/movie/victor/victor/183.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Beverly Hills Cop II (1987)
-http://skyplay.ddns.net:25461/movie/victor/victor/184.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Beverly Hills Ninja (1997)
-http://skyplay.ddns.net:25461/movie/victor/victor/185.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Big Game (2014)
-http://skyplay.ddns.net:25461/movie/victor/victor/186.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Big Momma's House (2000)
-http://skyplay.ddns.net:25461/movie/victor/victor/187.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Blade of the Immortal (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/188.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Blancanieves (2012)
-http://skyplay.ddns.net:25461/movie/victor/victor/189.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Blind Fury (1989)
-http://skyplay.ddns.net:25461/movie/victor/victor/190.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sand & Gold (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/191.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BloodRayne: The Third Reich (2010)
-http://skyplay.ddns.net:25461/movie/victor/victor/192.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Blunt Force Trauma (2015)
-http://skyplay.ddns.net:25461/movie/victor/victor/193.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Boa vs. Python (2004)
-http://skyplay.ddns.net:25461/movie/victor/victor/194.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Boyka: Undisputed IV (2016)
-http://skyplay.ddns.net:25461/movie/victor/victor/195.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Brave.2007.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/196.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bright (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/197.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Broken Horses (2015)
-http://skyplay.ddns.net:25461/movie/victor/victor/198.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Buffy the Vampire Slaye.1992.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/199.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bullet to the Head.2012.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/200.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Buques de Guerra Americanos.2012. [AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/201.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Burn Out (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/202.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canadian Wilderness.1965.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/203.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CapitÃ¡n AmÃ©rica El Primer Vengador.2011. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/204.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Captive (2015)
-http://skyplay.ddns.net:25461/movie/victor/victor/205.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Casino Royale (2006)
-http://skyplay.ddns.net:25461/movie/victor/victor/206.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cat Run 2 (2014)
-http://skyplay.ddns.net:25461/movie/victor/victor/207.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cat Run (2011)
-http://skyplay.ddns.net:25461/movie/victor/victor/208.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cazadores De Humanos.2010. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/209.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cellular (2004)
-http://skyplay.ddns.net:25461/movie/victor/victor/210.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CHiPS (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/211.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Chronicles of the Ghostly Tribe (2015)
-http://skyplay.ddns.net:25461/movie/victor/victor/212.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cielo Amarillo.1948.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/213.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cirque du Freak: The Vampire's Assistant (2009)
-http://skyplay.ddns.net:25461/movie/victor/victor/214.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cloud 9 (2014)
-http://skyplay.ddns.net:25461/movie/victor/victor/215.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cloud Atlas (2012)
-http://skyplay.ddns.net:25461/movie/victor/victor/216.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cobra silbestre stalon.1986. [AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/217.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Codigo Icarus.2010. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/218.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Codigos de Guerra.2002.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/219.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Collide (2016)
-http://skyplay.ddns.net:25461/movie/victor/victor/220.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Colombiana (2011)
-http://skyplay.ddns.net:25461/movie/victor/victor/221.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Combustion (2013)
-http://skyplay.ddns.net:25461/movie/victor/victor/222.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Commando 2 (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/223.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Comodines.1997.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/224.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Company Of Heores.2013.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/225.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Condena Brutal.1989. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/226.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Congo (1995)
-http://skyplay.ddns.net:25461/movie/victor/victor/227.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cop and a Half: New Recruit (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/228.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Corazones en Llamas 3 (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/229.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cuarentena 2 Terminal.2011.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/230.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cyborg X (2016)
-http://skyplay.ddns.net:25461/movie/victor/victor/231.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Daddy Yankee Talento de Barrio.2008.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/232.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Dante's Peak (1997)
-http://skyplay.ddns.net:25461/movie/victor/victor/233.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Dawn of the Planet of the Apes (2014)
-http://skyplay.ddns.net:25461/movie/victor/victor/234.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Daybreakers (2009)
-http://skyplay.ddns.net:25461/movie/victor/victor/235.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", De Hombre a Hombre.1967.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/236.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Dead Again in Tombstone (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/237.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Death Race 2 (2010)
-http://skyplay.ddns.net:25461/movie/victor/victor/238.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Death Watch.2013.AcciÃ³n
-http://skyplay.ddns.net:25461/movie/victor/victor/239.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Death Race 2050 (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/240.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Deja Vu (2006)Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/241.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Deja Vu(2006)Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/242.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Desde Paris Con Amor.2010. [AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/243.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Despues de la Tierra.2013. [AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/244.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Destruction: Los Angeles (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/245.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Diablo (2016)
-http://skyplay.ddns.net:25461/movie/victor/victor/246.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Diamond Cartel (2015)
-http://skyplay.ddns.net:25461/movie/victor/victor/247.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Diamonds Are Forever (1971)
-http://skyplay.ddns.net:25461/movie/victor/victor/248.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Die Another Day (2002)
-http://skyplay.ddns.net:25461/movie/victor/victor/249.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Double Impact (1991)
-http://skyplay.ddns.net:25461/movie/victor/victor/250.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Dos Hombres Contra el Oeste.1971.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/251.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Dos locas en fuga.2015.AcciÃ³n
-http://skyplay.ddns.net:25461/movie/victor/victor/252.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Dr. No (1962)
-http://skyplay.ddns.net:25461/movie/victor/victor/253.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Dragonheart: Battle for the Heartfire (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/254.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Drone Wars (2016)
-http://skyplay.ddns.net:25461/movie/victor/victor/255.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Dunkirk (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/256.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Earthtastrophe (2016)
-http://skyplay.ddns.net:25461/movie/victor/victor/257.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Edge of Tomorrow (2014)
-http://skyplay.ddns.net:25461/movie/victor/victor/258.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Apocalipsis De Pompeya.2014.[AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/259.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Ardor.2014. [AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/260.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El AvispÃ³n Verde.2011. (AcciÃ³n)
-http://skyplay.ddns.net:25461/movie/victor/victor/261.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Camino Del Guerrero.2010. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/262.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Codigo Del Miedo.2012. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/263.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Doble Del Diablo.2011. [AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/264.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Fantasma.2014. [AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/265.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Gringo (2012)
-http://skyplay.ddns.net:25461/movie/victor/victor/266.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Hidalgo De Los Mares.1951.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/267.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Hombre Arana.2002.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/268.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Justiciero.2014. [AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/269.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Lado Equivocado de la Ciudad.2010. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/270.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Libro De Eli.2010. Dvdrip Latino [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/271.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Mas Duro.2012. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/272.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El MaÃ±ana Nunca Muere (1997)Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/273.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Mundo En Sus Manos.1952.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/274.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Paletero (2016)
-http://skyplay.ddns.net:25461/movie/victor/victor/275.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Paquete.2013. [AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/276.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Patriota.2000.AcciÃ³n
-http://skyplay.ddns.net:25461/movie/victor/victor/277.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Principe de Persia Las Arenas del Tiempo.2010.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/278.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Regreso De Los Siete Magnificos.1966.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/279.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Rescate.2011. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/280.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Robo del Siglo.2008.AcciÃ³n
-http://skyplay.ddns.net:25461/movie/victor/victor/281.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Santuario.2011. [AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/282.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Sorprendente Hombre AraÃ±a.2012. [AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/283.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Templo del oro.1986.AcciÃ³n
-http://skyplay.ddns.net:25461/movie/victor/victor/284.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Templo.2017.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/285.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Tirador.2007.AcciÃ³n
-http://skyplay.ddns.net:25461/movie/victor/victor/286.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Transporter refueled.2015.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/287.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Vengador Anonimo.2011. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/288.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Vengador del Futuro.2012. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/289.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El abismo negro.1979.AcciÃ³m
-http://skyplay.ddns.net:25461/movie/victor/victor/290.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El abuelo espia.2017.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/291.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El chico de Philadelphia.2012.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/292.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El duro.1989.AcciÃ³n
-http://skyplay.ddns.net:25461/movie/victor/victor/293.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El hombre con los puÃ±os de hierro.2012.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/294.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El justiciero.2014.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/295.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El otro guardaespaldas.2017.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/296.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El vaquero.1958.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/297.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Ãºltimo samurai.2003.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/298.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Eliminators (2016)
-http://skyplay.ddns.net:25461/movie/victor/victor/299.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Emboscada.2013. [AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/300.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", En El Tornado.2014. [AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/301.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Encuentro Explosivo.2010. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/302.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ender's Game (2013)
-http://skyplay.ddns.net:25461/movie/victor/victor/303.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Entre El Honor Y La Venganza.2014. [AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/304.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Stasis (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/305.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Everly Implacable y Peligrosa.2014. [AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/306.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ExtracciÃ³n.2013. [AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/307.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fabricated City (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/308.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Falcon Rising (2014)
-http://skyplay.ddns.net:25461/movie/victor/victor/309.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fase 7.2010. [AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/310.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fast Lane.2010. (AcciÃ³n)
-http://skyplay.ddns.net:25461/movie/victor/victor/311.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fast & Furious (2009)
-http://skyplay.ddns.net:25461/movie/victor/victor/312.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Firequake (2014)
-http://skyplay.ddns.net:25461/movie/victor/victor/313.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Flaming Brothers (1987)
-http://skyplay.ddns.net:25461/movie/victor/victor/314.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", For Your Eyes Only (1981)
-http://skyplay.ddns.net:25461/movie/victor/victor/315.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Force of Five.2009.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/316.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Frankenstein's Army (2013)
-http://skyplay.ddns.net:25461/movie/victor/victor/317.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Freddy vs. Jason (2003)
-http://skyplay.ddns.net:25461/movie/victor/victor/318.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", From Russia with Love (1963)
-http://skyplay.ddns.net:25461/movie/victor/victor/319.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fuerte Yuma.1955.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/320.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fugitivo del futuro.1995.AcciÃ³n
-http://skyplay.ddns.net:25461/movie/victor/victor/321.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fullmetal Alchemist (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/322.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Furia de Titanes.2010.[Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/323.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Furia de Titanes.2012.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/324.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", G.I. Joe: The Rise of Cobra (2009)
-http://skyplay.ddns.net:25461/movie/victor/victor/325.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", G.I.Joe Conspiration.2013.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/326.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Geo-Disaster (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/327.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Geostorm (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/328.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ghost in the Shell Stand Alone Complex.2005.AcciÃ³n
-http://skyplay.ddns.net:25461/movie/victor/victor/329.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", God of War (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/330.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Gods of Egypt (2016)
-http://skyplay.ddns.net:25461/movie/victor/victor/331.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Godzilla (2014)
-http://skyplay.ddns.net:25461/movie/victor/victor/332.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GoldenEye El Regreso del Agente 007 (1995)Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/333.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Goldfinger (1964)
-http://skyplay.ddns.net:25461/movie/victor/victor/334.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Golpe Mortal.2010. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/335.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Gridlocked (2015)
-http://skyplay.ddns.net:25461/movie/victor/victor/336.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Guardians Zashchitniki.2017.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/337.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Guardines de la Galaxia.2014. [AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/338.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HK_ Hentai Kamen.2013.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/339.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Halo: Nightfall (2014)
-http://skyplay.ddns.net:25461/movie/victor/victor/340.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Hammer of the Gods (2009)
-http://skyplay.ddns.net:25461/movie/victor/victor/341.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Hancock (2008)
-http://skyplay.ddns.net:25461/movie/victor/victor/342.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Hansel y Gretel Cazadores de Brujas.2013. [AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/343.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Hardcore Henry (2015)
-http://skyplay.ddns.net:25461/movie/victor/victor/344.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Harley Davidson and the Marlboro Man (1991)
-http://skyplay.ddns.net:25461/movie/victor/victor/345.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Hate Crime (2012)
-http://skyplay.ddns.net:25461/movie/victor/victor/346.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Haywire (2011)
-http://skyplay.ddns.net:25461/movie/victor/victor/347.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Hitman: Agent 47 (2015)
-http://skyplay.ddns.net:25461/movie/victor/victor/348.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Hombres de negro II.2002.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/349.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Hombres de negro.1997.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/350.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Hostage (2005)
-http://skyplay.ddns.net:25461/movie/victor/victor/351.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Hercules (2014)
-http://skyplay.ddns.net:25461/movie/victor/victor/352.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Frankenstein (2014)
-http://skyplay.ddns.net:25461/movie/victor/victor/353.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El asesino.2001.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/354.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Imparable.2010. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/355.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", In the Blood (2014)
-http://skyplay.ddns.net:25461/movie/victor/victor/356.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Incorregibles (2007)
-http://skyplay.ddns.net:25461/movie/victor/victor/357.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Independence Day (1996)
-http://skyplay.ddns.net:25461/movie/victor/victor/358.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Independence Day: Resurgence (2016)
-http://skyplay.ddns.net:25461/movie/victor/victor/359.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Indiana Jones y La ultima cruzada.1989.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/360.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Infierno de cristal.2017.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/361.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Immortals (2011)
-http://skyplay.ddns.net:25461/movie/victor/victor/362.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Insurgent (2015)
-http://skyplay.ddns.net:25461/movie/victor/victor/363.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Invasion a La Tierra - Batalla los Angeles.2011. [AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/364.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Jack Ryan: Shadow Recruit (2014)
-http://skyplay.ddns.net:25461/movie/victor/victor/365.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Jarhead 3: The Siege (2016)
-http://skyplay.ddns.net:25461/movie/victor/victor/366.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", JoJo's Bizarre Adventure.2017.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/367.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Johan Falk El Final.2015.AcciÃ³n
-http://skyplay.ddns.net:25461/movie/victor/victor/368.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", John Wick: Chapter 2 (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/369.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Jonah Hex (2010)
-http://skyplay.ddns.net:25461/movie/victor/victor/370.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Juego De Asesinos.2011. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/371.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Jumanji: Welcome to the Jungle (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/372.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Jungle Holocaust.1977.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/373.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Jupiter Ascending (2015)
-http://skyplay.ddns.net:25461/movie/victor/victor/374.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Jurassic World (2015)
-http://skyplay.ddns.net:25461/movie/victor/victor/375.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Kelly's Heroes (1970)
-http://skyplay.ddns.net:25461/movie/victor/victor/376.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Kick-Ass 2 (2013)
-http://skyplay.ddns.net:25461/movie/victor/victor/377.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Kickboxer.2016.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/378.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Kill Ratio (2016)
-http://skyplay.ddns.net:25461/movie/victor/victor/379.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Kill'em All.2017.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/380.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Killer Elite (2011)
-http://skyplay.ddns.net:25461/movie/victor/victor/381.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Kingsman: The Secret Service (2014)
-http://skyplay.ddns.net:25461/movie/victor/victor/382.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Kong: Skull Island (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/383.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Kryptonita (2015)
-http://skyplay.ddns.net:25461/movie/victor/victor/384.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Kung Fu Yoga (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/385.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La Caida de la Casa Blanca.2013. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/386.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La Carrera De La Muerte.2008.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/387.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La Carrera de la Muerte 3.2013. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/388.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La casa del sol naciente (2011)
-http://skyplay.ddns.net:25461/movie/victor/victor/389.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La Conquista Del Planeta De Los Simios.1972.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/390.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La Cruz.2011. [AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/391.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La Era De Los Dragones.2011. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/392.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La EspÃ­a que me AmÃ³ (1977)Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/393.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La Gran Pelea 1 - Undisputed 1.2002.AcciÃ³n
-http://skyplay.ddns.net:25461/movie/victor/victor/394.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La Gran Pelea 2 - Undisputed 2.2006.AcciÃ³n.
-http://skyplay.ddns.net:25461/movie/victor/victor/395.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La Gran Pelea 3.2010.AcciÃ³n  Sub
-http://skyplay.ddns.net:25461/movie/victor/victor/396.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La Jungla.2017.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/397.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La Lista de la Muerte.2011. (AcciÃ³n)
-http://skyplay.ddns.net:25461/movie/victor/victor/398.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La Navidad de las Madres Rebeldes.2017.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/399.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La Redada.2011. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/400.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La Reunion.2011. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/401.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La Torre Oscura.2017.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/402.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La Villana.2017.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/403.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La fortaleza 2.2000.AcciÃ³n
-http://skyplay.ddns.net:25461/movie/victor/victor/404.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La joya del Nilo.1985.AcciÃ³n
-http://skyplay.ddns.net:25461/movie/victor/victor/405.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La mÃ¡scara del ninja.2008.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/406.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ladrones.2010. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/407.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Larceny (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/408.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Las Momias del FaraÃ³n.2010. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/409.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Last Knights (2015)
-http://skyplay.ddns.net:25461/movie/victor/victor/410.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Legion De Angeles.2010. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/411.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lethal Weapon (1987)
-http://skyplay.ddns.net:25461/movie/victor/victor/412.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Licencia Para Matar (1989)Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/413.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Linea De Fuego.2013. [AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/414.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Locked Down (2010)
-http://skyplay.ddns.net:25461/movie/victor/victor/415.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lone Wolf McQuade (1983)
-http://skyplay.ddns.net:25461/movie/victor/victor/416.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Los MagnÃ­ficos.2010. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/417.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Los Mercenarios 2.2012. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/418.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Los Mercenarios.2010. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/419.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Los Perdedores.2010. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/420.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Los PuÃ±os Mortales.2010. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/421.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Los Siete MagnÃ­ficos.2016.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/422.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Los Tres Mosqueteros.2011. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/423.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Los Ãºltimos sobrevivientes.2014.AcciÃ³n
-http://skyplay.ddns.net:25461/movie/victor/victor/424.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lucy (2014)
-http://skyplay.ddns.net:25461/movie/victor/victor/425.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Machete (2010)
-http://skyplay.ddns.net:25461/movie/victor/victor/426.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Manhunt.2017.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/427.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Marauders (2016)
-http://skyplay.ddns.net:25461/movie/victor/victor/428.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Matando Cabos.2004.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/429.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Maverick (1994)
-http://skyplay.ddns.net:25461/movie/victor/victor/430.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Max Schmeling (2010)
-http://skyplay.ddns.net:25461/movie/victor/victor/431.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Mayhem (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/432.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Mercenaries (2014)
-http://skyplay.ddns.net:25461/movie/victor/victor/433.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MisiÃ³n Estrella (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/434.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Monk Comes Down the Mountain (2015)
-http://skyplay.ddns.net:25461/movie/victor/victor/435.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Monster Brawl (2011)
-http://skyplay.ddns.net:25461/movie/victor/victor/436.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Montana (1950)
-http://skyplay.ddns.net:25461/movie/victor/victor/437.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Moonraker (1979)
-http://skyplay.ddns.net:25461/movie/victor/victor/438.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Mr. Right (2015)
-http://skyplay.ddns.net:25461/movie/victor/victor/439.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Mumon: The Land of Stealth (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/440.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Need For Speed La Pelicula.2014. [AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/441.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Officer Downe (2016)
-http://skyplay.ddns.net:25461/movie/victor/victor/442.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", On Her Majesty's Secret Service (1969)
-http://skyplay.ddns.net:25461/movie/victor/victor/443.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", OperaciÃ³n Espionaje.2010. [AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/444.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", OperaciÃ³n SkyFall (2012Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/445.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", OperaciÃ³n Trueno (1965Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/446.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Outlander (2008)
-http://skyplay.ddns.net:25461/movie/victor/victor/447.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ozark Sharks (2016)
-http://skyplay.ddns.net:25461/movie/victor/victor/448.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PequeÃ±os Guerreros.2015.AcciÃ³n
-http://skyplay.ddns.net:25461/movie/victor/victor/449.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Plan B (2016)
-http://skyplay.ddns.net:25461/movie/victor/victor/450.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Plan De Escape.2013. (Accion)
-http://skyplay.ddns.net:25461/movie/victor/victor/451.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Power Rangers (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/452.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Predestination (2014)
-http://skyplay.ddns.net:25461/movie/victor/victor/453.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Quantum (2008)Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/454.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RECALL.2017.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/455.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Rapido y Furioso 5.2011. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/456.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Rapido y Furioso 6.2013.[Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/457.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RED 2 (2013)
-http://skyplay.ddns.net:25461/movie/victor/victor/458.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Red Hill (2010)
-http://skyplay.ddns.net:25461/movie/victor/victor/459.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Red Planet (2000)
-http://skyplay.ddns.net:25461/movie/victor/victor/460.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Rendel (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/461.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Retroceso.2011. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/462.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Revolt (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/463.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Reyes de la Calle 2.2011. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/464.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ricochet (1991)
-http://skyplay.ddns.net:25461/movie/victor/victor/465.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Robin Hood (2010)
-http://skyplay.ddns.net:25461/movie/victor/victor/466.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Rush PasiÃ³n Y Gloria.2013. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/467.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", S.W.A.T.: Under Siege (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/468.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sangre por Sangre.1993.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/469.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Security (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/470.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Shark Killer (2015)
-http://skyplay.ddns.net:25461/movie/victor/victor/471.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sharknado 5: Global Swarming (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/472.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sherlock Holmes 2 Juego de Sombras.2011. (Accion)
-http://skyplay.ddns.net:25461/movie/victor/victor/473.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Shock Wave _ Chai dan zhuan jia.2017.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/474.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Shootfighter.1993.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/475.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Singularity (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/476.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sleepless (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/477.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Snatched (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/478.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sniper: Ghost Shooter (2016)
-http://skyplay.ddns.net:25461/movie/victor/victor/479.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sniper: Legacy (2014)
-http://skyplay.ddns.net:25461/movie/victor/victor/480.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sniper: Special Ops (2016)
-http://skyplay.ddns.net:25461/movie/victor/victor/481.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Socios por accidente.2014.(Comedia)
-http://skyplay.ddns.net:25461/movie/victor/victor/482.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Soldier (1998)
-http://skyplay.ddns.net:25461/movie/victor/victor/483.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Soy El Numero Cuatro.2011. [AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/484.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Spectre (2015)
-http://skyplay.ddns.net:25461/movie/victor/victor/485.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Spy Time (2015)
-http://skyplay.ddns.net:25461/movie/victor/victor/486.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Stalingrad (2013)
-http://skyplay.ddns.net:25461/movie/victor/victor/487.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Trek En La Oscuridad.2013. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/488.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Starship Troopers: Invasion (2012)
-http://skyplay.ddns.net:25461/movie/victor/victor/489.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Stonados (2013)
-http://skyplay.ddns.net:25461/movie/victor/victor/490.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Stratton (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/491.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Surrogates (2009)
-http://skyplay.ddns.net:25461/movie/victor/victor/492.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Swordfish (2001)
-http://skyplay.ddns.net:25461/movie/victor/victor/493.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SÃ³lo se Vive Dos Veces (1967)Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/494.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Take Down (2016)
-http://skyplay.ddns.net:25461/movie/victor/victor/495.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Taken Heart (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/496.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Bittersweet (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/497.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Covenant (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/498.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Finest Hours (2016)
-http://skyplay.ddns.net:25461/movie/victor/victor/499.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Gaelic King (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/500.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Guillotines (2012)
-http://skyplay.ddns.net:25461/movie/victor/victor/501.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Jackal (1997)
-http://skyplay.ddns.net:25461/movie/victor/victor/502.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The King Of Fighters La Pelicula.2010. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/503.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Last Tycoon (2012)
-http://skyplay.ddns.net:25461/movie/victor/victor/504.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Living Daylights (1987)
-http://skyplay.ddns.net:25461/movie/victor/victor/505.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Man with the Golden Gun (1974)
-http://skyplay.ddns.net:25461/movie/victor/victor/506.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Man from U.N.C.L.E. (2015)
-http://skyplay.ddns.net:25461/movie/victor/victor/507.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Marine 4: Moving Target (2015)
-http://skyplay.ddns.net:25461/movie/victor/victor/508.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Marine 5: Battleground (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/509.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Monster Project (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/510.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Mountain Between Us (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/511.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Prey (2011)
-http://skyplay.ddns.net:25461/movie/victor/victor/512.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Prince (2014)
-http://skyplay.ddns.net:25461/movie/victor/victor/513.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Rock (1996)
-http://skyplay.ddns.net:25461/movie/victor/victor/514.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Saint (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/515.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Siege (1998)
-http://skyplay.ddns.net:25461/movie/victor/victor/516.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Warriors Gate (2016)
-http://skyplay.ddns.net:25461/movie/victor/victor/517.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Way of the West2011. (Accion)
-http://skyplay.ddns.net:25461/movie/victor/victor/518.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The World Is Not Enough (1999)
-http://skyplay.ddns.net:25461/movie/victor/victor/519.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Fate of the Furious (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/520.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Shadow Effect (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/521.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tiro al Blanco.1990.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/522.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Titanes del Pacifico.2013.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/523.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Top Gun (1986)
-http://skyplay.ddns.net:25461/movie/victor/victor/524.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Toxic Shark (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/525.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tracers Al LÃ­mite.2015.AcciÃ³n
-http://skyplay.ddns.net:25461/movie/victor/victor/526.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Transformers: Revenge of the Fallen (2009)
-http://skyplay.ddns.net:25461/movie/victor/victor/527.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Transformers: The Last Knight (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/528.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Transformers (2007)
-http://skyplay.ddns.net:25461/movie/victor/victor/529.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tron El Legado.2010. [AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/530.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Un Buen Hombre.2014. [AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/531.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Un Guerrero De Corazon.2011. [Accion]
-http://skyplay.ddns.net:25461/movie/victor/victor/532.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Un Hombre Peligroso.2010. [AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/533.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Una RazÃ³n Para Vivir y Una Para Morir.1972.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/534.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Unlocked (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/535.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Unstoppable (2010)
-http://skyplay.ddns.net:25461/movie/victor/victor/536.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VehÃ­culo 19.2013. (Accion)
-http://skyplay.ddns.net:25461/movie/victor/victor/537.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Velocidad Mortal.2010. (Accion)
-http://skyplay.ddns.net:25461/movie/victor/victor/538.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Venganza Letal.2010. [AcciÃ³n]
-http://skyplay.ddns.net:25461/movie/victor/victor/539.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Viva Maria! (1965)
-http://skyplay.ddns.net:25461/movie/victor/victor/540.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Vive y Deja Morir (1973)Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/541.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Walker Texas Ranger.1993.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/542.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Wanted.1967.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/543.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", War Horse (2011)
-http://skyplay.ddns.net:25461/movie/victor/victor/544.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", War (2007)
-http://skyplay.ddns.net:25461/movie/victor/victor/545.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Wheelman (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/546.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", xXx: Return of Xander Cage (2017)
-http://skyplay.ddns.net:25461/movie/victor/victor/547.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", nos enfadamos.1975.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/548.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Yo Soy Furia.2016.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/549.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Yo el Halcon - Over the Top.1986.AcciÃ³n
-http://skyplay.ddns.net:25461/movie/victor/victor/550.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Young Guns 2_ Blaze of Glory.1990.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/551.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Young Guns (1988)
-http://skyplay.ddns.net:25461/movie/victor/victor/552.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Gladiator (2000)
-http://skyplay.ddns.net:25461/movie/victor/victor/553.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", sniper 2.2003.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/554.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sniper 3 (2004)
-http://skyplay.ddns.net:25461/movie/victor/victor/555.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sniper (1993)
-http://skyplay.ddns.net:25461/movie/victor/victor/556.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Time Rush (2016)
-http://skyplay.ddns.net:25461/movie/victor/victor/557.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", xXx (2002)
-http://skyplay.ddns.net:25461/movie/victor/victor/558.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 15 Minutes of War (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/825.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 1918 La batalla de Kruty.2019.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/826.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 1918 La batalla de Kruty.2019.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/827.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 3 Bears Christmas (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/828.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 4 latas (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/829.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 4x4.2019.Crimen
-http://skyplay.ddns.net:25461/movie/victor/victor/830.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 6 Underground (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/831.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 7. Yedinci Kogustaki Mucize.2019.Drama
-http://skyplay.ddns.net:25461/movie/victor/victor/832.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", A Cinderella Story: Christmas Wish (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/833.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", A Cinderella Story: Christmas Wish (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/834.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", A Minuscule Adventure.2019.Animacion
-http://skyplay.ddns.net:25461/movie/victor/victor/835.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", A Score to Settle (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/836.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", A quiÃ©n te llevarÃ­as a una isla desierta.2019.Drama
-http://skyplay.ddns.net:25461/movie/victor/victor/837.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Abigail (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/838.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Adios (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/839.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", After aquÃ­ empieza todo.2019.Drama
-http://skyplay.ddns.net:25461/movie/victor/victor/840.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", After life.2019.Comedia
-http://skyplay.ddns.net:25461/movie/victor/victor/841.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Agent Of Deceit (2019)Intriga
-http://skyplay.ddns.net:25461/movie/victor/victor/842.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Agent Of Deceit (2019)Intriga
-http://skyplay.ddns.net:25461/movie/victor/victor/843.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Agente 00-Gato.2019.Animacion
-http://skyplay.ddns.net:25461/movie/victor/victor/844.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Aladdin (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/845.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Alien Warfare (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/846.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Always Be My Maybe (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/847.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", American Factory (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/848.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Angel of Mine (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/849.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Angry Birds 2.2019.Animacio
-http://skyplay.ddns.net:25461/movie/victor/victor/850.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Anna (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/851.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Antes de la quema.2019.Comedia
-http://skyplay.ddns.net:25461/movie/victor/victor/852.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Apego (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/853.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Asesino de modelos.2019.Thriller
-http://skyplay.ddns.net:25461/movie/victor/victor/854.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Astrogauchos (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/855.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Back of the Net (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/856.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Back to School (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/857.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Backdraft 2 (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/858.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Badur Hogar (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/859.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bajo el mismo techo (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/860.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Batman vs las Tortugas Ninja (2019)Animacion
-http://skyplay.ddns.net:25461/movie/victor/victor/861.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bellezonismo (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/862.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Belzebuth (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/863.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Benchwarmers 2: Breaking Balls (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/864.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Between Two Ferns: The Movie (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/865.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Black and Blue (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/866.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Boda Sangrienta (2019)Misterio sub
-http://skyplay.ddns.net:25461/movie/victor/victor/867.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Booksmart (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/868.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Booksmart (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/869.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Brexit.2019.Biografia
-http://skyplay.ddns.net:25461/movie/victor/victor/870.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Burn (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/871.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CUBAN NETWORK.2019.Drama
-http://skyplay.ddns.net:25461/movie/victor/victor/872.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Captain Marve.2019.Supers
-http://skyplay.ddns.net:25461/movie/victor/victor/873.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", con la magia de la naturaleza (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/874.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Casi fiel (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/875.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cats (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/876.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Charlie's Angels (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/877.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Chicuarotes (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/878.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Chokehold.2019.Drama
-http://skyplay.ddns.net:25461/movie/victor/victor/879.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cinderela Pop (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/880.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Claudia (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/881.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Close (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/882.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cold Blood Legacy.2019.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/883.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cold Pursuit (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/884.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Color Out of Space.2019.Fantasia
-http://skyplay.ddns.net:25461/movie/victor/victor/885.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Como si fuera la primera vez.2019.Comedia
-http://skyplay.ddns.net:25461/movie/victor/victor/886.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Corporate Animals (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/887.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Countdown (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/888.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Crawl (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/889.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Critters Attack! (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/890.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Critters Attack! (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/891.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Crypto (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/892.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Curious George: Royal Monkey (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/893.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Daniel Sosa: Maleducado (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/894.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Darkness Visible (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/895.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", De Nuevo otra vez.2019.Drama
-http://skyplay.ddns.net:25461/movie/victor/victor/896.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Dead Water.2019.Thriller
-http://skyplay.ddns.net:25461/movie/victor/victor/897.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Deadly Influencer (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/898.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Deadwood: The Movie (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/899.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Inc. (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/900.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Dedicada a mi ex.2019.comedia
-http://skyplay.ddns.net:25461/movie/victor/victor/901.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Diego Maradona (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/902.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Dino King: Journey to Fire Mountain (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/903.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Don't Let Go (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/904.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Dora y la Ciudad Perdida.2019.Aventura
-http://skyplay.ddns.net:25461/movie/victor/victor/905.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Dragon Ball Super Broly.2019.Animacion
-http://skyplay.ddns.net:25461/movie/victor/victor/906.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Drunk Parents (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/907.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Dulce Familia.2019.Comedia
-http://skyplay.ddns.net:25461/movie/victor/victor/908.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Dumbo (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/909.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DÃ­a de Muertos.2019.Animacion
-http://skyplay.ddns.net:25461/movie/victor/victor/910.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Asesinato de Sharon Tate(2019)Drama
-http://skyplay.ddns.net:25461/movie/victor/victor/911.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Camino una pelÃ­cula de Breaking Bad.2019.Drama
-http://skyplay.ddns.net:25461/movie/victor/victor/912.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Faro.2019.Terror sub
-http://skyplay.ddns.net:25461/movie/victor/victor/913.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Hijo Perdido (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/914.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Hubiera SÃ­ Existe.2019.Comedia
-http://skyplay.ddns.net:25461/movie/victor/victor/915.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El que se enamora pierde (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/916.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Rocio.2019.Drama
-http://skyplay.ddns.net:25461/movie/victor/victor/917.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El bosque de los perros (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/918.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El bosque maldito.2019.Suspenso
-http://skyplay.ddns.net:25461/movie/victor/victor/919.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El buen Sam (2019)Comedia
-http://skyplay.ddns.net:25461/movie/victor/victor/920.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El dÃ­a que me muera (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/921.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El hijo.2019.Suspenso
-http://skyplay.ddns.net:25461/movie/victor/victor/922.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El hoyo.2019.Ciencia Ficcion
-http://skyplay.ddns.net:25461/movie/victor/victor/923.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El ninÌƒo que domo al viento.2019.Drama
-http://skyplay.ddns.net:25461/movie/victor/victor/924.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El sol tambiÃ©n es una estrella.2019.Drama
-http://skyplay.ddns.net:25461/movie/victor/victor/925.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Â¿Conoces a TomÃ¡s.2019.Drama
-http://skyplay.ddns.net:25461/movie/victor/victor/926.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Â¿No es romÃ¡ntico.2019.Fantacia
-http://skyplay.ddns.net:25461/movie/victor/victor/927.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Â¿Yo te gusto.2019.Thriller
-http://skyplay.ddns.net:25461/movie/victor/victor/928.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Elisa & Marcela (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1529.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", En las buenas y en las malas.2019.Comedia
-http://skyplay.ddns.net:25461/movie/victor/victor/1530.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Escape Room (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1531.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EspÃ­as a Escondidas (2019)Animacion
-http://skyplay.ddns.net:25461/movie/victor/victor/1532.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EspÃ­ritus del mar.2019.Animacion
-http://skyplay.ddns.net:25461/movie/victor/victor/1533.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Shockingly Evil and Vile (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1534.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fractured (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1535.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Hope & Love (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1536.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Falling Inn Love (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1537.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Feo pero Sabroso (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1538.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Flu.2019.Drama
-http://skyplay.ddns.net:25461/movie/victor/victor/1539.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Flu.2019.Drama
-http://skyplay.ddns.net:25461/movie/victor/victor/1540.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ford v Ferrari (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1541.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Frozen II (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1542.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Game Over (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1543.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Gates of Paradise (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1544.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", General Commander (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1545.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ghost Stories.2019.Drama
-http://skyplay.ddns.net:25461/movie/victor/victor/1546.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ghost Town.2019.Drama
-http://skyplay.ddns.net:25461/movie/victor/victor/1547.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ghost Town.2019.Drama
-http://skyplay.ddns.net:25461/movie/victor/victor/1548.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Grand-Daddy Day Care.2019.Comedia
-http://skyplay.ddns.net:25461/movie/victor/victor/1549.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Guatemala (2019)Documental
-http://skyplay.ddns.net:25461/movie/victor/victor/1550.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Guns Akimbo (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1551.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Headlock.2019.Misterio
-http://skyplay.ddns.net:25461/movie/victor/victor/1552.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Chelsea (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1553.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", High Flying Bird (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1554.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Holy Beasts (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1555.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Hotel Mumbai (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1556.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", How High 2 (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1557.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", How to Train Your Dragon: The Hidden World (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1558.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", I Am DurÃ¡n (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1559.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", I Am Mother (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1560.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", IO (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1561.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ice on Fire (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1562.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", In Full Bloom (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1563.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", In the Shadow of the Moon (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1564.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", In the Tall Grass (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1565.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Infierno Grande.2019.Drama
-http://skyplay.ddns.net:25461/movie/victor/victor/1566.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Inside Man: Most Wanted (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1567.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Intercambiadas (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1568.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Into the Dark Pilgrims.2019.Suspenso Sub
-http://skyplay.ddns.net:25461/movie/victor/victor/1569.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Into the Dark Uncanny Annie(2019)Terror Sub
-http://skyplay.ddns.net:25461/movie/victor/victor/1570.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Invasor Zim y el Poder del Florpus.2019.Animacion
-http://skyplay.ddns.net:25461/movie/victor/victor/1571.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Jay y Bob el silencioso_ el reboot.2019.comedia
-http://skyplay.ddns.net:25461/movie/victor/victor/1572.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Jeremiah Terminator LeRoy.2019.Drama
-http://skyplay.ddns.net:25461/movie/victor/victor/1573.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", John Wick 3.2019.Suspenso
-http://skyplay.ddns.net:25461/movie/victor/victor/1574.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Joker (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1575.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Journey to China: The Mystery of Iron Mask (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1576.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Jumanji siguiente nivel.2019.accion
-http://skyplay.ddns.net:25461/movie/victor/victor/1577.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", KanibarÃº (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1578.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Kardec (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1579.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Kevin Hart's Guide to Black History (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1580.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Kim Possible (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1581.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Klaus (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1582.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LA INFLUENCIA (2019)terror
-http://skyplay.ddns.net:25461/movie/victor/victor/1583.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La casa en la playa (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1584.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La deuda (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1585.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La Gran Aventura Lego 2.2019.Animacion
-http://skyplay.ddns.net:25461/movie/victor/victor/1586.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La Odisea de los Giles(2019)Drama
-http://skyplay.ddns.net:25461/movie/victor/victor/1587.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La PequeÃ±a Suiza.2019.Comedia
-http://skyplay.ddns.net:25461/movie/victor/victor/1588.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La Triple Amenaza(2019)Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/1589.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La cita perfecta.2019.Comedia
-http://skyplay.ddns.net:25461/movie/victor/victor/1590.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La democracia en peligro (2019)Documenta
-http://skyplay.ddns.net:25461/movie/victor/victor/1591.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La leyenda del pasaje secreto.2019.Animacion
-http://skyplay.ddns.net:25461/movie/victor/victor/1592.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", la pelÃ­cula GranjaguedÃ³n(2019) animacion
-http://skyplay.ddns.net:25461/movie/victor/victor/1593.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La peor de mis bodas 2 (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1594.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La razÃ³n de estar contigo un nuevo viaje.2019.Drama
-http://skyplay.ddns.net:25461/movie/victor/victor/1595.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La Ãºltima carcajada.2019.Comedia
-http://skyplay.ddns.net:25461/movie/victor/victor/1596.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Las Reinas del Crimen (2019)Drama
-http://skyplay.ddns.net:25461/movie/victor/victor/1597.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Las olas(2019)Drama
-http://skyplay.ddns.net:25461/movie/victor/victor/1598.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Legado en los huesos(2019)Crimen
-http://skyplay.ddns.net:25461/movie/victor/victor/1599.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lego DC Bat-Familia importa.2019.Animacion
-http://skyplay.ddns.net:25461/movie/victor/victor/1600.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Little (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1601.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lo dejo Cuando Quiera.2019.Comedy
-http://skyplay.ddns.net:25461/movie/victor/victor/1602.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Long Shot (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1603.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Los Aeronautas.2019.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/1604.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Los Descendientes 3.2019.Fantacia
-http://skyplay.ddns.net:25461/movie/victor/victor/1605.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Los Despiadados.2019.Drama
-http://skyplay.ddns.net:25461/movie/victor/victor/1606.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Los DomirriqueÃ±os 2 (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1607.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Los Lobos.2019.Crimen
-http://skyplay.ddns.net:25461/movie/victor/victor/1608.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Los Lobos.2019.Crimen
-http://skyplay.ddns.net:25461/movie/victor/victor/1609.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Los Miembros de la Familia.2019.Comedy
-http://skyplay.ddns.net:25461/movie/victor/victor/1610.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Los Tiburones.2019.Drama
-http://skyplay.ddns.net:25461/movie/victor/victor/1611.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Los Tigres del Norte at Folsom Prison (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1612.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Los Vigilantes de MalibÃº (2019)Comedia
-http://skyplay.ddns.net:25461/movie/victor/victor/1613.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Los muertos no mueren.2019.Comedy
-http://skyplay.ddns.net:25461/movie/victor/victor/1614.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Love Under the Rainbow (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1615.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Love You To Death (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1616.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lucero (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1617.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lukas Storyteller (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1618.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lying and Stealing (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1619.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ma (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1620.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Mad Mom (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1621.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lo Que Sere (2019)Documental
-http://skyplay.ddns.net:25461/movie/victor/victor/1622.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MalÃ©fica DueÃ±a del Mal (2019)Ciencia ficcion
-http://skyplay.ddns.net:25461/movie/victor/victor/1623.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Marvel Rising: Heart of Iron (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1624.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Mejor que nunca.2019.Comedia
-http://skyplay.ddns.net:25461/movie/victor/victor/1625.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Mi amigo Alexis (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1626.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Midsommar (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1627.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Midsommar (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1628.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Minusculos 2 (2019)Animacion
-http://skyplay.ddns.net:25461/movie/victor/victor/1629.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Miss Bala sin piedad.2019.Drama
-http://skyplay.ddns.net:25461/movie/victor/victor/1630.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", receta original.2019.Comedia
-http://skyplay.ddns.net:25461/movie/victor/victor/1631.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Mommy's Little Princess (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1632.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Money Trap (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1633.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Monos (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1634.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", My Soul to Keep (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1635.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Nacido para ser rey.2019.Ciencia ficcion
-http://skyplay.ddns.net:25461/movie/victor/victor/1636.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Never Grow Old (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1637.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", No Manches Frida 2 (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1638.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Nosotros.2019.Misterio
-http://skyplay.ddns.net:25461/movie/victor/victor/1639.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Nuestro Ãºltimo verano (2019)Comedia
-http://skyplay.ddns.net:25461/movie/victor/victor/1640.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NÃ¡ufrago en la luna.2009.Drama
-http://skyplay.ddns.net:25461/movie/victor/victor/1641.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Official Secrets (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1642.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ramona! (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1643.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Otherhood (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1644.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Paddleton (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1645.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Palau the Movie (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1646.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PapÃ¡ Youtuber (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1647.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Parasite (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1648.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Paris Is Us (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1649.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Parque Magico.2019.Animacion
-http://skyplay.ddns.net:25461/movie/victor/victor/1650.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Patients of a Saint.2019.Terror
-http://skyplay.ddns.net:25461/movie/victor/victor/1651.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Peleando en Familia.2019.Biografia
-http://skyplay.ddns.net:25461/movie/victor/victor/1652.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Persecuted.2019.Thriller
-http://skyplay.ddns.net:25461/movie/victor/victor/1653.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Perseguida.2019.Suspenso
-http://skyplay.ddns.net:25461/movie/victor/victor/1654.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Play or Die (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1655.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Playing with Fire (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1656.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Point Blank (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1657.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polar (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1658.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Project Gutenberg.2019.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/1659.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Prospect.2019.Fantacia
-http://skyplay.ddns.net:25461/movie/victor/victor/1660.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Proyecto Geminis.2019.Drama
-http://skyplay.ddns.net:25461/movie/victor/victor/1661.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Quiet come the dawn.2019.Suspenso
-http://skyplay.ddns.net:25461/movie/victor/victor/1662.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Rambo: Last Blood (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1663.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Rapidos y furiosos_ Hobbs & Shaw.2019.Accion
-http://skyplay.ddns.net:25461/movie/victor/victor/1664.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Rapto (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1665.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ready to Mingle (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1666.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Reign of the Supermen (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1667.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Reina de elefantes.2019.Documental
-http://skyplay.ddns.net:25461/movie/victor/victor/1668.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Reporte Clasificado.2019.Drama sub
-http://skyplay.ddns.net:25461/movie/victor/victor/1669.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Rescate en el mar rojo.2019.Thriller
-http://skyplay.ddns.net:25461/movie/victor/victor/1670.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Rocketman (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1671.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Scooby-Doo! Retorno a la Isla Zombi.2019.Animacion
-http://skyplay.ddns.net:25461/movie/victor/victor/1672.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Scooby-Doo! and the Curse of the 13th Ghost.2019.Animacion
-http://skyplay.ddns.net:25461/movie/victor/victor/1673.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Secuestro Stella.2019.Drama
-http://skyplay.ddns.net:25461/movie/victor/victor/1674.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", See You Yesterday (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1675.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Serenity (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1676.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Haunt (2019)
-http://skyplay.ddns.net:25461/movie/victor/victor/1677.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) TOROS
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=352_&f=.m3u8
